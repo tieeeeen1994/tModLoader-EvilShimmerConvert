@@ -7,3 +7,5 @@ So this mod introduces a way to shimmer some evil materials, items and blocks to
 - Evil Stone Blocks
 - Evil solutions for Clentaminator
 - Evil Seeds
+
+This also removes the evil seeds from being sold by the Dryad.
