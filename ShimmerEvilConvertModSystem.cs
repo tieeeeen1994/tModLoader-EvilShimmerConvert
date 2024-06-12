@@ -14,7 +14,8 @@ namespace ShimmerEvilConvert
             { ItemID.CrimsandBlock, ItemID.EbonsandBlock },
             { ItemID.CrimsonHardenedSand, ItemID.CorruptHardenedSand },
             { ItemID.CrimsonSandstone, ItemID.CorruptSandstone },
-            { ItemID.RedIceBlock, ItemID.PurpleIceBlock }
+            { ItemID.RedIceBlock, ItemID.PurpleIceBlock },
+            { ItemID.CrimsonSeeds, ItemID.CorruptSeeds }
         };
 
         public override void PostSetupContent()
